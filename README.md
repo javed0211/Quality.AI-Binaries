@@ -4,7 +4,7 @@ Pre-built Windows packages for **Quality.AI** (Electron desktop app).
 
 ## Recommended: Portable (no Setup.exe)
 
-If the NSIS installer leaves an empty folder (only an uninstaller), use the-skip the Setup.exe entirely.
+If the NSIS installer leaves an empty folder (only an uninstaller), skip the Setup.exe entirely.
 
 | Version | File | Notes |
 |---------|------|-------|
